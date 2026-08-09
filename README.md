@@ -2,8 +2,6 @@
 
 ![preview](./preview.png)
 
-Website pentru sala de fitness PrimaGym din Satu Mare. Construit cu Next.js 14 App Router, TypeScript, Tailwind CSS și SCSS.
-
 ## Tech Stack
 
 - **Framework:** Next.js 14 (App Router)
