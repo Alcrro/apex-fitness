@@ -1,4 +1,4 @@
-# PrimaGym
+# ApexFitness
 
 ![preview](./preview.png)
 
